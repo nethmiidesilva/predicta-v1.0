@@ -18,5 +18,6 @@ The solution leverages **LSTM** for time series forecasting and an ensemble of *
 - Employed an ensemble model (Random Forest, Gradient Boosting, XGBoost) for classifying weather conditions.
 - Focused on preprocessing, feature engineering, and hyperparameter tuning to enhance model performance.
 
+![competition_stats](predict_the_unpredictable.png)
 
 
