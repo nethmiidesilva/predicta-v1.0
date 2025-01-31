@@ -20,10 +20,11 @@ The solution leverages **LSTM** for time series forecasting and an ensemble of *
 
 ## Competition Stats
 
-![Alt Text for Image 1](competition_stats/classify_the_weather.png)
-![Alt Text for Image 2](competition_stats/predict_the_unpredictable.png)
-![Alt Text for Image 3](competition_stats/day_2.jpeg)
-![Alt Text for Image 4](competition_stats/day_3.jpeg)
+## Competition Stats
 
+<img src="competition_stats/classify_the_weather.png" alt="Competition Stats 1" width="500"/>
+<img src="competition_stats/predict_the_unpredictable.png" alt="Competition Stats 2" width="500"/>
+<img src="competition_stats/day_2.jpeg" alt="Competition Stats 3" width="500"/>
+<img src="competition_stats/day_2.jpeg" alt="Competition Stats 4" width="500"/>
 
 
