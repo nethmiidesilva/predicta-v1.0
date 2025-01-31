@@ -1,7 +1,7 @@
 # Predicta v1.0 
 
 ## Overview
-This repository contains the solution to the **Predicta v1.0** competition hosted by the University of Peradeniya. Our team, **Warriors**, tackled two main tasks:
+This repository contains the solution to the competition **Predicta v1.0**, hosted by the IEEE Student Branch of University of Peradeniya. Our team, **Warriors (P124)**, tackled two main tasks:
 
 1. **Time Series Prediction**: Predict average temperatures for the first week of 2019 across 100 cities using historical weather data (2014-2018).
 2. **Weather Classification**: Classify weather conditions (e.g., sunny, rainy) for each day based on historical data.
@@ -18,8 +18,12 @@ The solution leverages **LSTM** for time series forecasting and an ensemble of *
 - Employed an ensemble model (Random Forest, Gradient Boosting, XGBoost) for classifying weather conditions.
 - Focused on preprocessing, feature engineering, and hyperparameter tuning to enhance model performance.
 
+## Competition Stats
+
 ![Alt Text for Image 1](competition_stats/classify_the_weather.png)
-![Alt Text for Image 2](path/to/your/image2.png)
+![Alt Text for Image 2](competition_stats/predict_the_unpredictable.png)
+![Alt Text for Image 3](competition_stats/day_2.jpeg)
+![Alt Text for Image 4](competition_stats/day_3.jpeg)
 
 
 
