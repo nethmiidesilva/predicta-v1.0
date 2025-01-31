@@ -24,7 +24,7 @@ The solution leverages **LSTM** for time series forecasting and an ensemble of *
 
 <img src="competition_stats/classify_the_weather.png" alt="Competition Stats 1" width="500"/>
 <img src="competition_stats/predict_the_unpredictable.png" alt="Competition Stats 2" width="500"/>
-<img src="competition_stats/day_2.jpeg" alt="Competition Stats 3" width="500" height="400"/>
-<img src="competition_stats/day_2.jpeg" alt="Competition Stats 4" width="500" height="400"/>
+<img src="competition_stats/day_2.jpeg" alt="Competition Stats 3" width="500" height="350"/>
+<img src="competition_stats/day_2.jpeg" alt="Competition Stats 4" width="500" height="350"/>
 
 
